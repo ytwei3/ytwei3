@@ -1,4 +1,3 @@
-### ytwei 3號機
 
 <!--
 **hikari234/hikari234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
